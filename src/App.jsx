@@ -4,7 +4,7 @@ import './App.css'
 const App = () => {
   return (
     <div>
-      <h3>GitHub Profile Readme Generator</h3>
+      <h1>GitHub Profile Readme Generator</h1>
     </div>
   )
 }
