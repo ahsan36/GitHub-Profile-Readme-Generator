@@ -1,0 +1,19 @@
+::selection {
+    background: rgb(203 213 225);
+    color: #fff;
+}
+::-webkit-scrollbar {
+    width: 12px;
+}
+::-webkit-scrollbar-track {
+    background: rgb(250 250 250);
+}
+::-webkit-scrollbar-thumb {
+    background: rgb(203 213 225);
+    transition: 0.3s ease;
+    border: 3px solid rgb(250 250 250);
+    border-radius: 100vh;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: rgb(203 213 225);
+}

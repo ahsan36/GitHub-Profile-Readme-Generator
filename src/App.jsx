@@ -1,10 +1,11 @@
 import React from 'react'
 import './App.css'
+import Navbar from './components/Navbar'
 
 const App = () => {
   return (
     <div>
-      <h1>GitHub Profile Readme Generator</h1>
+      <Navbar />
     </div>
   )
 }
