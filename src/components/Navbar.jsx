@@ -7,7 +7,6 @@ import linkedin from "../assets/linkedin.png"
 const Navbar = () => {
   return (
     <header className='fixed w-full z-12 transition-all duration-300 bg-gray-200 '>
-      {/* <h3>Navbar</h3> */}
       <nav className='flex flex-row justify-between items-center text-2xl p-4 w-full'>
 
         {/* Logo */}
