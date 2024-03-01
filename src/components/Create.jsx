@@ -5,8 +5,8 @@ import linkedin from "../assets/linkedin.png"
 
 const Create = () => {
   return (
-    <>
-      <div className='text-center py-12 lg:py-24'>
+    <div>
+      <div className='text-center py-24 sm:py-24'>
         <div className='pt-15 text-center text-3xl lg:text-5xl font-medium text-sky-900'>
             README generator for your Github
         </div>
@@ -25,7 +25,7 @@ const Create = () => {
             ))}
         </div>
       </div>
-    </>
+    </div>
   )
 }
 

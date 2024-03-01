@@ -3,7 +3,7 @@ import { PiGithubLogoFill } from "react-icons/pi";
 
 const Footer = () => {
   return (
-    <footer className="bg-gray-100 mt-24">
+    <footer className="bg-gray-100 mt-24 md:mt-56">
         <div className="text-center mb-4">
             <div className="text-xl lg:text-2xl text-gray-600">
 
