@@ -7,8 +7,7 @@ const Footer = () => {
         <div className="text-center mb-4">
             <div className="text-xl lg:text-2xl text-gray-600">
 
-                {/* Made by Ahsan */}
-                
+                {/* Made by Ahsan */}                
                 <span className="text-sky-400 text-sm">
                     Made by &nbsp;
                 </span>
