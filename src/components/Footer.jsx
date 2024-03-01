@@ -25,7 +25,7 @@ const Footer = () => {
             <a href="https://www.linkedin.com/in/mdahsanansari/"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-slate-400 text-xl hover:text-slate-900 font-semibold transition-all duration-200 mx-2 mb-4 text-xl"
+            className="text-slate-400 hover:text-slate-900 font-semibold transition-all duration-200 mx-2 mb-4 text-xl"
             ><FaLinkedinIn /></a>
 
             <a
