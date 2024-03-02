@@ -19,7 +19,6 @@ const Footer = () => {
         </div>
 
         {/* Github and Linkedin Links */}
-
         <div className="flex justify-center">
 
             <a href="https://www.linkedin.com/in/mdahsanansari/"
