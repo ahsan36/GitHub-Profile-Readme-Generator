@@ -1,4 +1,4 @@
-export const LanguageBadges = [
+export const languageBadges = [
     {
         name: "Apache Groovy",
         image: "Apache%20Groovy-4298B8.svg?logo=Apache+Groovy&logoColor=white",
