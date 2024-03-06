@@ -179,7 +179,6 @@ const Profile = () => {
                             <option value="flat-square">
                                 Flat Square
                             </option>
-                            <option value="social">Social</option>
                         </select>
                     </div>
 
