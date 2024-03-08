@@ -13,7 +13,7 @@ import ProfilePreview from '../components/ProfilePreview'
 const Profile = () => {
 
     const [profile, setProfile] = useState({
-        step: 5,
+        step: 1,
         name: "",
         username: "",
         about: "",
@@ -38,6 +38,7 @@ const Profile = () => {
     const [social, setSocial] = useState([...socialsBadges]);
 
     const [badgeType, setBadgeType] = useState("for-the-badge");
+
 
     const handleLanguage = (techName) => {
         const myNextList = {...language};
@@ -136,8 +137,7 @@ const Profile = () => {
                         cols="30"
                         placeholder="
                         ## 🔭 I’m currently working on
-                        ## 👯 I’m looking to collaborate on
-                        ## 🤝 I’m looking for help with
+                        ## 🤝 I’m looking to collaborate on
                         ## 🌱 I’m currently learning
                         ## 💬 Ask me about
                         ## ⚡ Fun fact
@@ -175,10 +175,6 @@ const Profile = () => {
                                 For The Badge
                             </option>
                             <option value="plastic">Plastic</option>
-                            <option value="flat">Flat</option>
-                            <option value="flat-square">
-                                Flat Square
-                            </option>
                         </select>
                     </div>
 

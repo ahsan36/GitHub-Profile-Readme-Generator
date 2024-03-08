@@ -1,10 +1,5 @@
 export const languageBadges = [
     {
-        name: "Apache Groovy",
-        image: "Apache%20Groovy-4298B8.svg?logo=Apache+Groovy&logoColor=white",
-        isSelected: false,
-    },
-    {
         name: "C",
         image: "c-%2300599C.svg?logo=c&logoColor=white",
         isSelected: false,
@@ -20,38 +15,13 @@ export const languageBadges = [
         isSelected: false,
     },
     {
-        name: "Crystal",
-        image: "crystal-%23000000.svg?logo=crystal&logoColor=white",
-        isSelected: false,
-    },
-    {
         name: "CSS3",
         image: "css3-%231572B6.svg?logo=css3&logoColor=white",
         isSelected: false,
     },
     {
-        name: "Clojure",
-        image: "Clojure-%23Clojure.svg?logo=Clojure&logoColor=Clojure",
-        isSelected: false,
-    },
-    {
         name: "Dart",
         image: "dart-%230175C2.svg?logo=dart&logoColor=white",
-        isSelected: false,
-    },
-    {
-        name: "Elixir",
-        image: "elixir-%234B275F.svg?logo=elixir&logoColor=white",
-        isSelected: false,
-    },
-    {
-        name: "Elm",
-        image: "Elm-60B5CC?logo=elm&logoColor=white",
-        isSelected: false,
-    },
-    {
-        name: "Erlang",
-        image: "Erlang-white.svg?logo=erlang&logoColor=a90533",
         isSelected: false,
     },
     {
@@ -102,26 +72,6 @@ export const languageBadges = [
     {
         name: "LaTeX",
         image: "latex-%23008080.svg?logo=latex&logoColor=white",
-        isSelected: false,
-    },
-    {
-        name: "Lua",
-        image: "lua-%232C2D72.svg?logo=lua&logoColor=white",
-        isSelected: false,
-    },
-    {
-        name: "Markdown",
-        image: "markdown-%23000000.svg?logo=markdown&logoColor=white",
-        isSelected: false,
-    },
-    {
-        name: "Nim",
-        image: "nim-%23FFE953.svg?logo=nim&logoColor=white",
-        isSelected: false,
-    },
-    {
-        name: "Octave",
-        image: "OCTAVE-darkblue?logo=octave&logoColor=fcd683",
         isSelected: false,
     },
     {
