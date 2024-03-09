@@ -18,8 +18,8 @@ const ProfilePreview = ({
   return ( 
     <>
       <div className="mt-4 md:mt-8">
-        <div className="text-center">
-            <span className="bg-slate-700 text-slate-50 m-2 p-1 rounded-lg">
+        <div className="text-center mb-3">
+            <span className="bg-slate-700 text-slate-50 m-2 p-1 mb-3 rounded-lg">
                 Code
             </span>
         </div>
@@ -152,14 +152,13 @@ const ProfilePreview = ({
                     &icon=0&color=0)](https://visitcount.itsvg.in)
                 </>
             )}
-            {" Happy Coding 🚀🔥"}
             <br />
         </div>
       </div>
 
         {/* Preview */}
         <div className="mt-4 md:mt-8 text-xl">
-            <div className="text-center">
+            <div className="text-center mb-3">
                 <span className="bg-slate-700 text-slate-50 m-2 p-1 rounded-lg">
                     Preview
                 </span>
